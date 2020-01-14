@@ -11,3 +11,15 @@ this is a comic bot Markov Chain generater that allows you to select a comedian'
 !pip install pandas
 !pip install random
 ```
+
+### type in anything
+
+a sentence or a word without punctuation is ideal for the input, as it leaves the generator to decide when to end a sentence.
+
+### TODOs
+
+>
+
+- case sensitive
+- source curation
+- adding/subtracting

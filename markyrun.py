@@ -1,5 +1,11 @@
 import marky
 
+#           ▌
+# ▛▚▀▖▝▀▖▙▀▖▌▗▘▌ ▌
+# ▌▐ ▌▞▀▌▌  ▛▚ ▚▄▌
+# ▘▝ ▘▝▀▘▘  ▘ ▘▗▄▘
+# a Markov Chain comic bot
+# by Lan Zhang
 
 context = {}
 selections = {
