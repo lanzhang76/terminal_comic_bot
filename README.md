@@ -1,4 +1,4 @@
-## a comic bot that runs on your terminal
+## a terminal comic bot
 
 <a href='http://www.recurse.com' title='Made with love at the Recurse Center'><img src="https://cloud.githubusercontent.com/assets/2883345/11325206/336ea5f4-9150-11e5-9e90-d86ad31993d8.png" height="20px"/></a>
 
@@ -7,9 +7,15 @@ this is a comic bot Markov Chain generater that allows you to select a comedian'
 ### in order to run this bot, make sure you have
 
 ```
-!pip install regex
-!pip install pandas
-!pip install random
+$pip install regex
+$pip install pandas
+$pip install random
+```
+
+### how to run
+
+```
+$python markyrun.py
 ```
 
 ### type in anything
