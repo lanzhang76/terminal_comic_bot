@@ -7,9 +7,7 @@ this is a comic bot Markov Chain generater that allows you to select a comedian'
 ### in order to run this bot, make sure you have
 
 ```
-$pip install regex
-$pip install pandas
-$pip install random
+$pip install regex pandas random
 ```
 
 ### how to run
